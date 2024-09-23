@@ -1,6 +1,5 @@
 # Non Blocking Application
-This project was developed with intuit as to experience the support of sping
-to reactive applications and test the hibernate reactive.
+This project was developed with the intention of experimenting with Spring's support for reactive applications and testing reactive Hibernate.
 
 ### Project Stack:
 
