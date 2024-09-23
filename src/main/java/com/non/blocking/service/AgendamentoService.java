@@ -3,12 +3,8 @@ package com.non.blocking.service;
 import com.non.blocking.model.Agendamento;
 import com.non.blocking.repository.AgendamentoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;
-
-import java.util.List;
-
 @Service
 public class AgendamentoService {
 
